@@ -1,10 +1,3 @@
----
-title: "Reinforcement Learning"
-aliases: ["RL", "Deep reinforcement learning"]
-tags:
-  - reinforcement-learning
-  - policy
----
 # Reinforcement Learning
 
 ## Software
